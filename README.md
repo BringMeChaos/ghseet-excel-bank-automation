@@ -1,4 +1,4 @@
-Bank automation using python for Google sheets and Excel:
+## Bank automation using python for Google sheets and Excel:
 
 * This is a work in progress :)
 This project is a tool I've been using privetly for some time, since it solved a lot of my issues with finance tracking, and now I re-factor it to be used publicly.
