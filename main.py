@@ -391,7 +391,7 @@ while (ws[cellindxD].value is not None):
     # Saving excel sheet since we are done updating it at this point ==========================
     try:
         # Save the workbook
-        newWB.save("C:/Users/shori/OneDrive/Desktop/Code_projects/Py-Sheets/NewDocResult.xlsx")
+        newWB.save("./NewDocResult.xlsx")
         print("Changes saved successfully!")
     except Exception as e:
         print("Error saving changes:", e)
